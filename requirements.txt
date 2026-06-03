@@ -1,0 +1,42 @@
+# Core LLM & Agent Framework
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0.0
+google-generativeai>=0.7.2
+
+# Pydantic for data validation
+pydantic>=2.7.0
+
+# FastAPI & serving
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+aiofiles>=23.2.0
+
+# PDF processing
+PyMuPDF>=1.24.0
+pdf2image>=1.17.0
+
+# OCR
+paddleocr>=2.7.3
+paddlepaddle>=2.6.1
+
+# Image processing
+Pillow>=10.3.0
+numpy>=1.26.0
+
+# Data processing
+pandas>=2.2.0
+
+# UI / Logging
+rich>=13.7.0
+
+# Retry logic
+tenacity>=8.2.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Sample data generation (for testing)
+reportlab>=4.2.0

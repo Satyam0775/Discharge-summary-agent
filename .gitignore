@@ -1,0 +1,10 @@
+.venv/
+.env
+outputs/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+.vscode/
+data/patient_001/
+data/patient_002/
